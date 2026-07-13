@@ -28,9 +28,8 @@ A premium Discord theme with a sleek **Black & Red Gaming** aesthetic inspired b
 
 # 📸 Preview
 
-> Add screenshots here after uploading them.
 
-![Preview](preview.png)
+![Preview](https://i.imgur.com/JNDt4TZ.jpeg)
 
 ---
 
@@ -58,8 +57,8 @@ A premium Discord theme with a sleek **Black & Red Gaming** aesthetic inspired b
 
 Discord: **RG_HARDIK**
 
-GitHub:
-https://github.com/HardikDembla
+Server :
+https://discord.gg/ZD6ZNnDmUn
 
 ---
 
