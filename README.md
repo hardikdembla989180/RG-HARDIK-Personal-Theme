@@ -55,7 +55,7 @@ A premium Discord theme with a sleek **Black & Red Gaming** aesthetic inspired b
 
 **Hardik Dembla**
 
-Discord: **RG_HARDIK**
+Discord: **rg_hardik**
 
 Server :
 https://discord.gg/ZD6ZNnDmUn
